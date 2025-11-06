@@ -107,10 +107,10 @@ function App() {
             
            
             <div id="site">
-                <img src="../fb.svg" alt="" class="rede"/>
-                <img src="../insta.svg" alt="" class="rede"/>
-                <img src="../Group.svg" alt="" class="rede"/>
-                <img src="../Linkedin.svg" alt="" class="rede"/>
+                <a href="http://www.facebook.com/vitoria.pinheiro.90"><img src="../fb.svg" alt="" class="rede" /></a>
+                <a href="http://www.instagram.com/vitoria6302/"><img src="../insta.svg" alt="" class="rede"/></a>
+                <a href="http://x.com/vitoriadagmar"><img src="../Group.svg" alt="" class="rede"/></a>
+                <a href="http://linkedin.com/in/vitória-pinheiro-3792391b7/"><img src="../Linkedin.svg" alt="" class="rede"/></a>
             </div>
 
             <p id="copyright">Copyright ©2030 All rights reserved </p>
